@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maciek - @Nilmuvann
 - 👀 I’m interested in Data Science, Statistics and Volleyball 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects for junior-devs
+- 🛠️ I’m looking to collaborate on projects for junior-devs
 - 📫 How to reach me: simply DM 
 
 <!---
