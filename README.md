@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Maciek - @Nilmuvann
 - 👀 I’m interested in Ethical Hacking & Data Science
 - 🌱 I’m currently learning Python
-- 🛠️ I’m looking to collaborate on projects for junior-devs
+- 🛠️ I’m looking to collaborate on projects
 - 📫 How to reach me: simply DM, Discord: rb@c
 
 <!---
