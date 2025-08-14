@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Maciek - @Nilmuvann
-- 👀 I’m interested in Ethical Hacking & Data Science
-- 🌱 I’m currently learning Python
-- 🛠️ I’m looking to collaborate on projects
-- 📫 How to reach me: simply DM, Discord: rb@c
+- 👀 Ethical Hacker
+- 🌱 Python scripting
+- 🛠️ Linux root 
 
 <!---
 Nilmuvann/Nilmuvann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
